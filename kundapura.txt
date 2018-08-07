@@ -1,0 +1,770 @@
+total 16
+drwxr-xr-x   9 sofia  staff   288 Jul 27 11:36 .
+drwx------+ 38 sofia  staff  1216 Jul 27 11:05 ..
+-rw-r--r--@  1 sofia  staff  6148 Jul 27 11:31 .DS_Store
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  12 sofia  staff   384 Jul 27 10:36 .git
+drwxr-xr-x@  6 sofia  staff   192 Jul 27 11:11 AtlantisMapAR.xcodeproj
+	com.apple.lastuseddate#PS	  16 
+drwxr-xr-x   9 sofia  staff   288 Jul 27 11:30 EddieWithBeer
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 EddieWithBeerTests
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 EddieWithBeerUITests
+-rw-r--r--   1 sofia  staff     0 Jul 27 11:36 kundapura.txt
+
+./.git:
+total 48
+drwxr-xr-x  12 sofia  staff   384 Jul 27 10:36 .
+drwxr-xr-x   9 sofia  staff   288 Jul 27 11:36 ..
+-rw-r--r--   1 sofia  staff    15 Jun  7 17:07 COMMIT_EDITMSG
+-rw-r--r--   1 sofia  staff    23 Jun  7 17:07 HEAD
+-rw-r--r--   1 sofia  staff   137 Jun  7 17:07 config
+-rw-r--r--   1 sofia  staff    73 Jun  7 17:07 description
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 hooks
+-rw-r--r--   1 sofia  staff  4889 Jul 27 10:36 index
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 info
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 logs
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 objects
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 refs
+
+./.git/hooks:
+total 8
+drwxr-xr-x   3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x  12 sofia  staff  384 Jul 27 10:36 ..
+-rwxr-xr-x   1 sofia  staff  177 Jun  7 17:07 README.sample
+
+./.git/info:
+total 8
+drwxr-xr-x   3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x  12 sofia  staff  384 Jul 27 10:36 ..
+-rw-r--r--@  1 sofia  staff   40 Jun  7 17:07 exclude
+	com.apple.TextEncoding	 15 
+
+./.git/logs:
+total 8
+drwxr-xr-x   4 sofia  staff  128 Jun  7 17:07 .
+drwxr-xr-x  12 sofia  staff  384 Jul 27 10:36 ..
+-rw-r--r--   1 sofia  staff  166 Jun  7 17:07 HEAD
+drwxr-xr-x   3 sofia  staff   96 Jun  7 17:07 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x  4 sofia  staff  128 Jun  7 17:07 ..
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 heads
+
+./.git/logs/refs/heads:
+total 8
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 ..
+-rw-r--r--  1 sofia  staff  166 Jun  7 17:07 master
+
+./.git/objects:
+total 0
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 .
+drwxr-xr-x  12 sofia  staff   384 Jul 27 10:36 ..
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 02
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 04
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 06
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:35 0b
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:08 11
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 18
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:33 23
+drwxr-xr-x   4 sofia  staff   128 Jun 19 14:59 27
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 2d
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 2f
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:35 38
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 3a
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:02 3f
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 40
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 45
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 47
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:36 53
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:10 56
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:40 5d
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:40 5f
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 63
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 6a
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 6c
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:35 79
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 7e
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:43 82
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:31 84
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:08 86
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:06 88
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:00 8e
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 a5
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 a8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 ab
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 ad
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 ae
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 b3
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:08 b4
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 b5
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 b7
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 ba
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 bc
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 be
+drwxr-xr-x   4 sofia  staff   128 Jul 26 11:02 bf
+drwxr-xr-x   4 sofia  staff   128 Jul 26 11:06 c1
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 c3
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 c4
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 c8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 cc
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:31 d5
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 d8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 da
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:09 db
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:07 e0
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 e2
+drwxr-xr-x   3 sofia  staff    96 Jul 26 17:30 e5
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 e7
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:06 e8
+drwxr-xr-x   4 sofia  staff   128 Jul 26 11:40 ec
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:33 ed
+drwxr-xr-x   5 sofia  staff   160 Jun 19 15:08 ee
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 f5
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 f8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 f9
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 fb
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:31 fd
+drwxr-xr-x   2 sofia  staff    64 Jun  7 17:07 info
+drwxr-xr-x   2 sofia  staff    64 Jun  7 17:07 pack
+
+./.git/objects/02:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   158 Jun  7 18:09 eed80d9dd00cced58f442003b2936f4073e041
+
+./.git/objects/04:
+total 16
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff    83 Jun  7 17:07 62dd9770994caf0803de09ac5fc8b9b6c034bb
+-r--r--r--   1 sofia  staff    68 Jun  7 17:07 af2353afadc23a58f9da054759a0209a01a592
+
+./.git/objects/06:
+total 5224
+drwxr-xr-x   3 sofia  staff       96 Jun  7 18:09 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  2674559 Jul 26 11:03 335e892f546dc6e75e9b0f73a9e5b073894f48
+
+./.git/objects/0b:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:35 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   151 Jun  8 16:36 0bd71f7bba4d5a0edb434d3493f3b6b31ca317
+
+./.git/objects/11:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:08 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   162 Jul 26 11:03 2de98308505b224508ee9c4b92b9cd1c3201ea
+
+./.git/objects/18:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   206 Jul 26 11:00 d981003d68d0546c4804ac2ff47dd97c6e7921
+
+./.git/objects/23:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:33 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   159 Jun  8 16:33 e76d1d48d895081dc9f0e3e721322d8b0e9e8a
+
+./.git/objects/27:
+total 56
+drwxr-xr-x   4 sofia  staff    128 Jun 19 14:59 .
+drwxr-xr-x  69 sofia  staff   2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff     58 Jun  7 17:07 08767942efb50b50b9a3c79288121cd70a2a9f
+-r--r--r--   1 sofia  staff  24530 Jul 26 11:03 9ac03839bc90b41cd008f747f190fa0832028c
+
+./.git/objects/2d:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   101 Jun  7 17:07 3348d87704fa6b151e425325bd52055b823c47
+
+./.git/objects/2f:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff    51 Jun  7 17:07 e109ac2f60512ccd0df2483b0627b0a8fa1746
+
+./.git/objects/38:
+total 4936
+drwxr-xr-x   3 sofia  staff       96 Jun  8 16:35 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  2523890 Jul 26 11:03 56bf780c5ca873ae07af1cc2f7abfc981b48ff
+
+./.git/objects/3a:
+total 6712
+drwxr-xr-x   3 sofia  staff       96 Jun  7 18:09 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  3432958 Jul 26 11:03 e8e22dbdb40395e9835ae028a9a2b9b78488a9
+
+./.git/objects/3f:
+total 64
+drwxr-xr-x   3 sofia  staff     96 Jul 26 11:02 .
+drwxr-xr-x  69 sofia  staff   2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  30550 Jul 26 11:03 568c59a8b8bdbfb83f0e41e64c4d6b642d9523
+
+./.git/objects/40:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   629 Jul 26 11:03 a175a6c0296ccbb840f93e9489b6921602b1cc
+
+./.git/objects/45:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   161 Jul 26 11:03 d9a2b78ecc8d8c35cc637a7e8909378d739327
+
+./.git/objects/47:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   153 Jul 27 10:12 284d1597670641e4dd7c06bdaae7ddfaba5282
+
+./.git/objects/53:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:36 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   162 Jul 26 11:03 bd6670dc8b7d61a21f6c4983c11e2e603734a9
+
+./.git/objects/56:
+total 2688
+drwxr-xr-x   3 sofia  staff       96 Jun  7 17:10 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  1372294 Jul 26 11:03 958f358c353184b931315cd38f894500fcebf1
+
+./.git/objects/5d:
+total 5560
+drwxr-xr-x   3 sofia  staff       96 Jul 26 11:40 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  2846363 Jul 26 11:40 02c630b0edb9fa9924c52aaeba24285e9f6533
+
+./.git/objects/5f:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:40 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   167 Jul 26 11:40 d308a784ea24cd63728d9e7b5484289f53fdd2
+
+./.git/objects/63:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   171 Jul 27 10:12 ea6df2b5b1d0adad472f5964fc95306ea96693
+
+./.git/objects/6a:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   132 Jun  7 17:07 83c207d223f9b1b5a95045e51e420701c9dca1
+
+./.git/objects/6c:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   352 Jul 26 11:04 40a6cd0c4af2f0d93b697fbfb066793681b045
+
+./.git/objects/79:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:35 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   157 Jun  8 16:35 01b435b8d5b3c1d2365a852f9a8232db3e107b
+
+./.git/objects/7e:
+total 2384
+drwxr-xr-x   3 sofia  staff       96 Jul 27 10:12 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  1217011 Jul 27 10:31 44d0a005910586d654e71415ad2d29f0e63cfb
+
+./.git/objects/82:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:43 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   153 Jul 26 11:43 81776f790951cc69177836354db2e1074a5275
+
+./.git/objects/84:
+total 4936
+drwxr-xr-x   3 sofia  staff       96 Jun  8 16:31 .
+drwxr-xr-x  69 sofia  staff     2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  2523857 Jun  8 16:31 647144b0a3429cc4e365f32d17214a0b0fb227
+
+./.git/objects/86:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:08 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   126 Jun  7 17:15 457a6de5bc4e455258368e7802defe1f3667a5
+
+./.git/objects/88:
+total 680
+drwxr-xr-x   3 sofia  staff      96 Jul 26 11:06 .
+drwxr-xr-x  69 sofia  staff    2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  346254 Jul 26 11:06 147b99e9474b5cf2c951bc01a856ae9431654c
+
+./.git/objects/8e:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:00 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  3951 Jul 26 11:00 4796d0619a93106d23f37850715d85ae477bdb
+
+./.git/objects/a5:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jul 27 10:12 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   150 Jul 27 10:12 dbf2a2f99a0861a94113d093e8c322f1da9071
+
+./.git/objects/a8:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   779 Jul 26 11:03 c1121d9bd93391aaa7e5568a104d4bac18eb29
+
+./.git/objects/ab:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   127 Jun  7 17:07 46fe49ca57093031fa35ebb972f4aa38179850
+
+./.git/objects/ad:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   141 Jun  7 17:07 ee88ae384865c406f729a1b7dbf2655af3b6cd
+
+./.git/objects/ae:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   443 Jul 26 11:03 87d9b88db6370967bc204ec2007c5525ebd353
+
+./.git/objects/b3:
+total 720
+drwxr-xr-x   3 sofia  staff      96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff    2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  367488 Jul 26 11:03 63961ae5b9f1c3cf9525519c57164370608d0d
+
+./.git/objects/b4:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:08 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   162 Jun  7 17:08 842290a5ae61b6fb05ab63aba1f0ddba2a2340
+
+./.git/objects/b5:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   151 Jun  7 17:08 04f61b9d6e4b11b8f8c998dea4e21cb8db20cb
+
+./.git/objects/b7:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   139 Jul 26 11:00 a75fb912afc5d6b431d4496fee48d15a6bb8ab
+
+./.git/objects/ba:
+total 688
+drwxr-xr-x   3 sofia  staff      96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff    2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  349794 Jun  7 17:07 392589b700c619d2c828e14361f09b0355a72f
+
+./.git/objects/bc:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   241 Jun  7 17:07 b59944a4a6f1d6d440971c544bf1faa60917f7
+
+./.git/objects/be:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff    88 Jun  7 17:07 c9dbb76ef0d436793f61935850d89ef82320c3
+
+./.git/objects/bf:
+total 16
+drwxr-xr-x   4 sofia  staff   128 Jul 26 11:02 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   792 Jul 26 11:03 a36129419f8bd7ad73581cb9f07b8c6eec3fcf
+-r--r--r--   1 sofia  staff  1845 Jul 26 11:03 e2f9df1564249f807d9d217c5b8f102c27ff79
+
+./.git/objects/c1:
+total 568
+drwxr-xr-x   4 sofia  staff     128 Jul 26 11:06 .
+drwxr-xr-x  69 sofia  staff    2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff     162 Jun  8 16:36 752f9b3a4982cde3a9c88c4315c431876fe1f2
+-r--r--r--   1 sofia  staff  286522 Jul 26 11:06 81d37708a921a2ed1c4addafdc93c60a3675d7
+
+./.git/objects/c3:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff    95 Jun  7 17:07 9b05ea7f7f750f11862860601ab7deef13f854
+
+./.git/objects/c4:
+total 16
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   103 Jun  7 17:07 1a8fc815280ef2c028493361c27c5c6590f48d
+-r--r--r--   1 sofia  staff    68 Jun  7 17:07 3cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0
+
+./.git/objects/c8:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   148 Jun  7 18:09 9d7da569c910baf3deafa4f9907b4ed641cff3
+
+./.git/objects/cc:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   615 Jul 26 11:04 2894b14a5ff18d5123dac12a88a3594861b4b6
+
+./.git/objects/d5:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:31 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   149 Jun  8 16:31 c9c034d02d2451c34f23b0f80e300f7a239963
+
+./.git/objects/d8:
+total 16
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   934 Jul 26 11:03 75e53419dad6f06611812febfc75a578413d8e
+-r--r--r--   1 sofia  staff   254 Jul 26 11:03 db8d65fd79fd541b2b7eba75c7378af3448f9c
+
+./.git/objects/da:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff    65 Jul 26 11:03 4a164c918651cdd1e11dca5cc62c333f097601
+
+./.git/objects/db:
+total 40888
+drwxr-xr-x   3 sofia  staff        96 Jul 27 10:09 .
+drwxr-xr-x  69 sofia  staff      2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  20934285 Jul 27 10:09 a7bf498b68f09962ed9268718727721c6f9b17
+
+./.git/objects/e0:
+total 16
+drwxr-xr-x   3 sofia  staff    96 Jul 26 11:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  4848 Jul 27 10:09 3aa8d13123837d840cdc319ebd0fefb74262ed
+
+./.git/objects/e2:
+total 160
+drwxr-xr-x   3 sofia  staff     96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff   2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  79964 Jun  7 17:07 2648fe1f938d05beea1155f9f634946006e5c2
+
+./.git/objects/e5:
+total 34008
+drwxr-xr-x   3 sofia  staff        96 Jul 26 17:30 .
+drwxr-xr-x  69 sofia  staff      2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  17408856 Jul 26 17:30 48a7351f6d0f8a6b5397f170da7db69a6010c7
+
+./.git/objects/e7:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   148 Jun  7 17:07 671ac48d5a72a3bb9eead9dd1a730421d4e700
+
+./.git/objects/e8:
+total 680
+drwxr-xr-x   3 sofia  staff      96 Jul 26 11:06 .
+drwxr-xr-x  69 sofia  staff    2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff  344305 Jul 26 11:06 adcbe2fa92a6d20a07670b302d050ba4d627ad
+
+./.git/objects/ec:
+total 16
+drwxr-xr-x   4 sofia  staff   128 Jul 26 11:40 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   150 Jul 26 11:40 de0bedc7f3d70927801c7c65af3a0455bdcd69
+-r--r--r--   1 sofia  staff  3936 Jun  7 17:07 f5f5f7f1908b4022bc5a47cd5acd3065fd9acd
+
+./.git/objects/ed:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:33 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   160 Jun  8 16:33 f84a8cfdc6ba7c7e0132b6b641e9b7b8acdb43
+
+./.git/objects/ee:
+total 32
+drwxr-xr-x   5 sofia  staff   160 Jun 19 15:08 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   140 Jun 19 11:58 46dc9b4502abb7b088a827a44eeade0664d1c0
+-r--r--r--   1 sofia  staff  4821 Jun 19 15:08 696c803fcefdd778d8a920b05c6c4812c67d49
+-r--r--r--   1 sofia  staff   240 Jul 26 11:00 ddd4a21d4b52c838d2f083c7aa12f2b1848ccb
+
+./.git/objects/f5:
+total 16
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   105 Jun  7 17:07 6c911e3aba3c4c4bd2fbeed609a3e607cd71e2
+-r--r--r--   1 sofia  staff   830 Jun  7 17:07 ea855a12c9d4985bdb3df35a69ef7caa6169d2
+
+./.git/objects/f8:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   105 Jun  7 17:07 9e5decee01b7236f23cfa2b87f93e850a618e5
+
+./.git/objects/f9:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff    59 Jun  7 17:07 8604af142ff0bf598a640a60810aa73474e559
+
+./.git/objects/fb:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  7 18:09 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   145 Jun  8 16:34 2a436f08d08ce3cbd002f739c748770c3ae259
+
+./.git/objects/fd:
+total 8
+drwxr-xr-x   3 sofia  staff    96 Jun  8 16:31 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+-r--r--r--   1 sofia  staff   153 Jul 26 11:03 fe72a5aa42965997d57d70ea20c6dc1f8657f9
+
+./.git/objects/info:
+total 0
+drwxr-xr-x   2 sofia  staff    64 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x   2 sofia  staff    64 Jun  7 17:07 .
+drwxr-xr-x  69 sofia  staff  2208 Jul 27 10:31 ..
+
+./.git/refs:
+total 0
+drwxr-xr-x   4 sofia  staff  128 Jun  7 17:07 .
+drwxr-xr-x  12 sofia  staff  384 Jul 27 10:36 ..
+drwxr-xr-x   3 sofia  staff   96 Jun  7 17:07 heads
+drwxr-xr-x   2 sofia  staff   64 Jun  7 17:07 tags
+
+./.git/refs/heads:
+total 8
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x  4 sofia  staff  128 Jun  7 17:07 ..
+-rw-r--r--  1 sofia  staff   41 Jun  7 17:07 master
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x  2 sofia  staff   64 Jun  7 17:07 .
+drwxr-xr-x  4 sofia  staff  128 Jun  7 17:07 ..
+
+./AtlantisMapAR.xcodeproj:
+total 48
+drwxr-xr-x@ 6 sofia  staff    192 Jul 27 11:11 .
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x  9 sofia  staff    288 Jul 27 11:36 ..
+-rw-r--r--  1 sofia  staff  22694 Jul 27 11:11 project.pbxproj
+drwxr-xr-x@ 5 sofia  staff    160 Jul 26 11:00 project.xcworkspace
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x  3 sofia  staff     96 Jul 26 11:00 xcshareddata
+drwxr-xr-x  3 sofia  staff     96 Jun  7 17:07 xcuserdata
+
+./AtlantisMapAR.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x@ 5 sofia  staff  160 Jul 26 11:00 .
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x@ 6 sofia  staff  192 Jul 27 11:11 ..
+	com.apple.lastuseddate#PS	 16 
+-rw-r--r--  1 sofia  staff  194 Jul 26 11:00 contents.xcworkspacedata
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 xcshareddata
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 xcuserdata
+
+./AtlantisMapAR.xcodeproj/project.xcworkspace/xcshareddata:
+total 8
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x@ 5 sofia  staff  160 Jul 26 11:00 ..
+	com.apple.lastuseddate#PS	 16 
+-rw-r--r--  1 sofia  staff  238 Jun  7 17:07 IDEWorkspaceChecks.plist
+
+./AtlantisMapAR.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x@ 5 sofia  staff  160 Jul 26 11:00 ..
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 sofia  staff   96 Jul 27 11:36 sofia.xcuserdatad
+
+./AtlantisMapAR.xcodeproj/project.xcworkspace/xcuserdata/sofia.xcuserdatad:
+total 120
+drwxr-xr-x  3 sofia  staff     96 Jul 27 11:36 .
+drwxr-xr-x  3 sofia  staff     96 Jun  7 17:07 ..
+-rw-r--r--  1 sofia  staff  57700 Jul 27 11:36 UserInterfaceState.xcuserstate
+
+./AtlantisMapAR.xcodeproj/xcshareddata:
+total 0
+drwxr-xr-x  3 sofia  staff   96 Jul 26 11:00 .
+drwxr-xr-x@ 6 sofia  staff  192 Jul 27 11:11 ..
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 sofia  staff   96 Jul 27 11:12 xcschemes
+
+./AtlantisMapAR.xcodeproj/xcshareddata/xcschemes:
+total 8
+drwxr-xr-x  3 sofia  staff    96 Jul 27 11:12 .
+drwxr-xr-x  3 sofia  staff    96 Jul 26 11:00 ..
+-rw-r--r--  1 sofia  staff  3375 Jul 27 11:12 AtlantisMapAR.xcscheme
+
+./AtlantisMapAR.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x@ 6 sofia  staff  192 Jul 27 11:11 ..
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 sofia.xcuserdatad
+
+./AtlantisMapAR.xcodeproj/xcuserdata/sofia.xcuserdatad:
+total 0
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 .
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 ..
+drwxr-xr-x  4 sofia  staff  128 Jul 26 11:00 xcschemes
+
+./AtlantisMapAR.xcodeproj/xcuserdata/sofia.xcuserdatad/xcschemes:
+total 24
+drwxr-xr-x  4 sofia  staff   128 Jul 26 11:00 .
+drwxr-xr-x  3 sofia  staff    96 Jun  7 17:07 ..
+-rw-r--r--  1 sofia  staff  4275 Jul 26 11:00 EddieWithBeer.xcscheme
+-rw-r--r--  1 sofia  staff   814 Jul 26 11:00 xcschememanagement.plist
+
+./EddieWithBeer:
+total 56
+drwxr-xr-x   9 sofia  staff   288 Jul 27 11:30 .
+drwxr-xr-x   9 sofia  staff   288 Jul 27 11:36 ..
+-rw-r--r--@  1 sofia  staff  6148 Jul 27 11:30 .DS_Store
+	com.apple.FinderInfo	  32 
+-rw-r--r--@  1 sofia  staff  2167 Jun  7 17:07 AppDelegate.swift
+	com.apple.TextEncoding	  15 
+	com.apple.lastuseddate#PS	  16 
+drwxr-xr-x   5 sofia  staff   160 Jul 27 10:12 Assets.xcassets
+drwxr-xr-x   4 sofia  staff   128 Jun  7 17:07 Base.lproj
+-rw-r--r--   1 sofia  staff  1642 Jul 26 11:00 Info.plist
+-rw-r--r--@  1 sofia  staff  8265 Jul 27 10:35 ViewController.swift
+	com.apple.lastuseddate#PS	  16 
+drwxr-xr-x  12 sofia  staff   384 Jul 27 10:36 art.scnassets
+
+./EddieWithBeer/Assets.xcassets:
+total 8
+drwxr-xr-x  5 sofia  staff  160 Jul 27 10:12 .
+drwxr-xr-x  9 sofia  staff  288 Jul 27 11:30 ..
+drwxr-xr-x  3 sofia  staff   96 Jun  7 17:07 AppIcon.appiconset
+-rw-r--r--  1 sofia  staff   62 Jun  7 17:15 Contents.json
+drwxr-xr-x  8 sofia  staff  256 Jul 27 10:12 Photos.arresourcegroup
+
+./EddieWithBeer/Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 sofia  staff    96 Jun  7 17:07 .
+drwxr-xr-x  5 sofia  staff   160 Jul 27 10:12 ..
+-rw-r--r--  1 sofia  staff  1590 Jun  7 17:07 Contents.json
+
+./EddieWithBeer/Assets.xcassets/Photos.arresourcegroup:
+total 8
+drwxr-xr-x  8 sofia  staff  256 Jul 27 10:12 .
+drwxr-xr-x  5 sofia  staff  160 Jul 27 10:12 ..
+drwxr-xr-x  4 sofia  staff  128 Jul 26 11:43 AtlantisCropped.arreferenceimage
+drwxr-xr-x  4 sofia  staff  128 Jul 27 10:12 AtlantisOcean.arreferenceimage
+-rw-r--r--  1 sofia  staff  400 Jul 27 10:12 Contents.json
+drwxr-xr-x  4 sofia  staff  128 Jun 19 11:58 EddieBeerPic.arreferenceimage
+drwxr-xr-x  4 sofia  staff  128 Jun  7 18:09 NCLShip.arreferenceimage
+drwxr-xr-x  4 sofia  staff  128 Jun  8 16:36 ShipCover.arreferenceimage
+
+./EddieWithBeer/Assets.xcassets/Photos.arresourcegroup/AtlantisCropped.arreferenceimage:
+total 5568
+drwxr-xr-x  4 sofia  staff      128 Jul 26 11:43 .
+drwxr-xr-x  8 sofia  staff      256 Jul 27 10:12 ..
+-rw-r--r--  1 sofia  staff  2845495 Jul 26 11:40 AtlantisCropped.png
+-rw-r--r--  1 sofia  staff      207 Jul 26 11:43 Contents.json
+
+./EddieWithBeer/Assets.xcassets/Photos.arresourcegroup/AtlantisOcean.arreferenceimage:
+total 2392
+drwxr-xr-x  4 sofia  staff      128 Jul 27 10:12 .
+drwxr-xr-x  8 sofia  staff      256 Jul 27 10:12 ..
+-rw-r--r--  1 sofia  staff  1216622 Jul 27 10:12 AtlantisOcean.png
+-rw-r--r--  1 sofia  staff      205 Jul 27 10:12 Contents.json
+
+./EddieWithBeer/Assets.xcassets/Photos.arresourcegroup/EddieBeerPic.arreferenceimage:
+total 736
+drwxr-xr-x  4 sofia  staff     128 Jun 19 11:58 .
+drwxr-xr-x  8 sofia  staff     256 Jul 27 10:12 ..
+-rw-r--r--  1 sofia  staff     220 Jun 19 11:58 Contents.json
+-rw-r--r--  1 sofia  staff  370067 Jun 19 11:58 IMG_5636.jpg
+
+./EddieWithBeer/Assets.xcassets/Photos.arresourcegroup/NCLShip.arreferenceimage:
+total 6720
+drwxr-xr-x  4 sofia  staff      128 Jun  7 18:09 .
+drwxr-xr-x  8 sofia  staff      256 Jul 27 10:12 ..
+-rw-r--r--  1 sofia  staff      222 Jun  7 18:09 Contents.json
+-rw-r--r--  1 sofia  staff  3433712 Jun  7 18:09 NCLShip.png
+
+./EddieWithBeer/Assets.xcassets/Photos.arresourcegroup/ShipCover.arreferenceimage:
+total 4944
+drwxr-xr-x  4 sofia  staff      128 Jun  8 16:36 .
+drwxr-xr-x  8 sofia  staff      256 Jul 27 10:12 ..
+-rw-r--r--  1 sofia  staff      220 Jun  8 16:36 Contents.json
+-rw-r--r--  1 sofia  staff  2526984 Jun  8 16:36 IMG_5659.jpg
+
+./EddieWithBeer/Base.lproj:
+total 16
+drwxr-xr-x  4 sofia  staff   128 Jun  7 17:07 .
+drwxr-xr-x  9 sofia  staff   288 Jul 27 11:30 ..
+-rw-r--r--@ 1 sofia  staff  1658 Jun  7 17:07 LaunchScreen.storyboard
+	com.apple.TextEncoding	  15 
+	com.apple.lastuseddate#PS	  16 
+-rw-r--r--@ 1 sofia  staff  1636 Jun  7 17:07 Main.storyboard
+	com.apple.TextEncoding	  15 
+	com.apple.lastuseddate#PS	  16 
+
+./EddieWithBeer/art.scnassets:
+total 160840
+drwxr-xr-x  12 sofia  staff       384 Jul 27 10:36 .
+drwxr-xr-x   9 sofia  staff       288 Jul 27 11:30 ..
+-rw-r--r--@  1 sofia  staff   1225290 Jul 26 16:25 Atlantis.scn
+	com.apple.lastuseddate#PS	      16 
+	com.apple.metadata:kMDLabel_gaebu3syxjokazfespxzbuo7m4	      89 
+-rw-r--r--@  1 sofia  staff   1866845 Jul 26 10:35 AtlantisToExportMESH.OBJ
+	com.apple.lastuseddate#PS	      16 
+-rw-r--r--@  1 sofia  staff   1768844 Jul 26 10:35 AtlantisToExportMESH_Internal.OBJ
+	com.apple.lastuseddate#PS	      16 
+-rw-r--r--@  1 sofia  staff    498353 Jul 26 11:47 AtlantisToExportMESH_UV1.OBJ
+	com.apple.lastuseddate#PS	      16 
+	com.apple.metadata:_kMDItemUserTags	      42 
+-rw-r--r--@  1 sofia  staff   1377635 Jun  7 17:04 EddieBeerVideo.mp4
+	com.apple.lastuseddate#PS	      16 
+	com.apple.metadata:kMDItemWhereFroms	     161 
+	com.apple.quarantine	      57 
+-rw-r--r--@  1 sofia  staff   2676146 Jun  7 18:07 NCLShip.mp4
+	com.apple.lastuseddate#PS	      16 
+	com.apple.metadata:kMDItemWhereFroms	     188 
+	com.apple.quarantine	      57 
+-rw-r--r--@  1 sofia  staff  53031008 Jul 27 10:08 OceanMonster.dae
+	com.apple.lastuseddate#PS	      16 
+	com.apple.quarantine	      22 
+-rw-r--r--@  1 sofia  staff  17947278 Jul 27 10:28 OceanScene.scn
+	com.apple.lastuseddate#PS	      16 
+-rw-r--r--@  1 sofia  staff     92659 Jun 20 10:09 WoodBoat.scn
+	com.apple.lastuseddate#PS	      16 
+-rw-r--r--@  1 sofia  staff     92536 Jun 19 12:50 Wood_Boat.dae
+	com.apple.lastuseddate#PS	      16 
+	com.apple.metadata:kMDItemWhereFroms	     460 
+	com.apple.quarantine	      57 
+
+./EddieWithBeerTests:
+total 16
+drwxr-xr-x  4 sofia  staff  128 Jun  7 17:07 .
+drwxr-xr-x  9 sofia  staff  288 Jul 27 11:36 ..
+-rw-r--r--@ 1 sofia  staff  982 Jun  7 17:07 EddieWithBeerTests.swift
+	com.apple.TextEncoding	 15 
+-rw-r--r--  1 sofia  staff  701 Jun  7 17:07 Info.plist
+
+./EddieWithBeerUITests:
+total 16
+drwxr-xr-x  4 sofia  staff   128 Jun  7 17:07 .
+drwxr-xr-x  9 sofia  staff   288 Jul 27 11:36 ..
+-rw-r--r--@ 1 sofia  staff  1251 Jun  7 17:07 EddieWithBeerUITests.swift
+	com.apple.TextEncoding	  15 
+-rw-r--r--  1 sofia  staff   701 Jun  7 17:07 Info.plist
